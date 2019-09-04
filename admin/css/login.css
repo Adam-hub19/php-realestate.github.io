@@ -1,0 +1,49 @@
+.table1{
+    
+margin-top: 200px;
+color: white;
+padding: 50px;
+background-image: url("../wood.jpg");
+border-radius: 50%;
+font-size: 18px;
+
+    
+}
+
+.r{
+    margin-top:50px;
+}
+.at{
+    
+    margin-left: 50px;
+    margin-top: 15px;
+    
+}
+.table{
+  
+   border-bottom-width:2px;
+     margin-bottom: 0;
+     border-bottom:0;
+     border-top:1px solid #ddd;
+}
+.button {
+   
+    height: 25px;
+    width: 80px;
+    border: none;
+    background-image: url("../bg1.jpg");
+    border-radius: 50%;
+   
+    
+      box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.d{
+    padding-top: 20px;
+    padding-left: 89px;
+    
+}
+.rd{
+   color: white;
+    
+}
